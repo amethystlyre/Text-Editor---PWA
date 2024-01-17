@@ -3,7 +3,7 @@
 
 ## Description
     
-A text editor webpage built using PWA concepts.
+A text editor webpage built using PWA concepts. This editor can be used when device is offline and can be installed as a web app on user device. The content is saved on the device locally.
     
 ## Table of Contents
     
